@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.clipsplit.app/sitemap.xml
+Sitemap: https://clipsplit-deep-07f0.vercel.app/sitemap.xml
